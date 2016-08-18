@@ -24,7 +24,7 @@ Apart from suggesting a particular item on your list, you should also inform you
 
 ## Make it clear what the list is about
 
-Have a succinct description at the top of your readme. Make sure your list covers a certain scope and nothing else. Link to other awesome lists if you think they already cover a certain subject good enough.
+Have a succinct description at the top of your readme. Make sure your list covers a certain scope and nothing else. Link to other awesome lists if you think they already cover a certain subject well enough.
 
 ## Pay attention to grammar
 
@@ -49,7 +49,3 @@ Create a [table of contents](https://github.com/sindresorhus/stuff/blob/master/t
 ## Accept other people's opinion
 
 If you're an owner of the list, respect other people's opinion. If there are plenty of users not agreeing to your decision, give it a second thought.
-
-## Discovery
-
-Link back to this list from your list so users can easily discover more lists.
